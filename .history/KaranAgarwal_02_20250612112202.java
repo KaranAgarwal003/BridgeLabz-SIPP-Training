@@ -27,15 +27,6 @@ public class KaranAgarwal_02 {
         double profitPercentage = ((double) profit / cp) * 100;
         System.out.println("The Cost Price is INR 129 and Selling Price is INR 191\n"
                 + "The Profit is INR " + profit + " and the Profit Percentage is " + profitPercentage + "%");
-<<<<<<< HEAD
-        
-        //5.
-        int pens=14;
-        int students=3;
-        int pensperstudent= pens / students;
-        int remainingPens = pens % students;
-        System.out.println(" The Pen Per Student is " + pensperstudent + "and the remaining pen not distributed is " + remainingPens);
-=======
 
         //5.
         int pens = 14;
@@ -113,7 +104,6 @@ public class KaranAgarwal_02 {
         int n = sc.nextInt();
         int totalhandshakes = n * (n - 1) / 2;
         System.out.println("The total number of handshakes possible among " + n + " student is " + totalhandshakes + ".");
->>>>>>> 025ed17 (addKaranAgarwal_02.java)
     }
 
 }
