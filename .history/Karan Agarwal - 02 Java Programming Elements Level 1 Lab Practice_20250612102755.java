@@ -1,0 +1,16 @@
+
+import java.util.*;
+
+public class KaranAgarwal02JavaProgrammingElementsLevel1LabPractice {
+
+    public static void main(String[] args) {
+        //1.
+        Scanner sc = new Scanner(System.in);
+        System.out.println(Enter the birth year
+        );
+        int year = sc.nextInt();
+        int age = 2024 - year;
+        System.out.println("Your age is: " + age);
+
+    }
+}
