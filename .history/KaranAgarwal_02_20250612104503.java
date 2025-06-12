@@ -29,10 +29,6 @@ public class KaranAgarwal_02 {
                 + "The Profit is INR " + profit + " and the Profit Percentage is " + profitPercentage + "%");
         
         //5.
-        int pens=14;
-        int students=3;
-        int pensperstudent= pens / students;
-        int remainingPens = pens % students;
-        System.out.println(" The Pen Per Student is " + pensperstudent + "and the remaining pen not distributed is " + remainingPens);
+        
     }
 }

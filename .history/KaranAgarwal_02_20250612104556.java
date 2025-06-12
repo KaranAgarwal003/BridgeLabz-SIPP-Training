@@ -31,8 +31,8 @@ public class KaranAgarwal_02 {
         //5.
         int pens=14;
         int students=3;
-        int pensperstudent= pens / students;
+        int pensper student= pens / students;
         int remainingPens = pens % students;
-        System.out.println(" The Pen Per Student is " + pensperstudent + "and the remaining pen not distributed is " + remainingPens);
+        System.out.println(" The Pen Per Student is ___ and the remaining pen not distributed is ___");
     }
 }

@@ -21,18 +21,12 @@ public class KaranAgarwal_02 {
         System.out.println("The distance 10.8 km in miles is" + miles);
 
         //4.
-        int cp = 129;
-        int sp = 191;
-        int profit = sp - cp;
+        int cp=129;
+        int sp=191;
+        int profit=sp-cp;
         double profitPercentage = ((double) profit / cp) * 100;
-        System.out.println("The Cost Price is INR 129 and Selling Price is INR 191\n"
-                + "The Profit is INR " + profit + " and the Profit Percentage is " + profitPercentage + "%");
-        
-        //5.
-        int pens=14;
-        int students=3;
-        int pensperstudent= pens / students;
-        int remainingPens = pens % students;
-        System.out.println(" The Pen Per Student is " + pensperstudent + "and the remaining pen not distributed is " + remainingPens);
+        System.out.println("The Cost Price is INR 129 and Selling Price is INR ___
+The Profit is INR ___ and the Profit Percentage is ___
+");
     }
 }
