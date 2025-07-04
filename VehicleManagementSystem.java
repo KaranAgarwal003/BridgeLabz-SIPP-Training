@@ -29,7 +29,7 @@ class Car extends Vehicle {
 
     @Override
     public double calculateServiceCost() {
-        return 2000.0; // Example cost
+        return 2000.0;
     }
 
     @Override
